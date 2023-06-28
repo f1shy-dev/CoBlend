@@ -11,6 +11,8 @@ Blender 3x/2.9x scene rendering in Google Colab, now with a fancy, easy-to-use G
 * OpenEXR support
 * Attributes/scripts support
 * Fix CPU rendering
+* Option to cache blender versions to GDrive
+* Make blender version fetching automatic
 
 ### A few notes
 1. You'll need a Google account to use this
