@@ -5,6 +5,12 @@ Blender 3x/2.9x scene rendering in Google Colab, now with a fancy, easy-to-use G
 
 <a href="https://colab.research.google.com/github/f1shy-dev/coblend/blob/master/CoBlend.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
+### "Todo" list
+* Add UI for converting frames to video with `ffmpeg`
+* Test everything, clean up code
+* OpenEXR support
+* Attributes/scripts support
+* Fix CPU rendering
 
 ### A few notes
 1. You'll need a Google account to use this
