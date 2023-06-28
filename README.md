@@ -5,6 +5,9 @@ Blender 3x/2.9x scene rendering in Google Colab, now with a fancy, easy-to-use G
 
 <a href="https://colab.research.google.com/github/f1shy-dev/coblend/blob/master/CoBlend.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
+### Gallery
+<img width="476" alt="image" src="https://github.com/f1shy-dev/CoBlend/assets/56125930/20bc610f-713c-4032-9a37-ccb6128fe99a">
+
 ### "Todo" list
 * Add UI for converting frames to video with `ffmpeg`
 * Test everything, clean up code
