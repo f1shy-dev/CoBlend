@@ -12,7 +12,8 @@ Blender 3x/2.9x scene rendering in Google Colab, now with a fancy, easy-to-use G
 * Attributes/scripts support
 * Fix CPU rendering
 * Option to cache blender versions to GDrive
-* Make blender version fetching automatic
+* Fetch blender version automatically
+* Make rendering have a progress bar...
 
 ### A few notes
 1. You'll need a Google account to use this
